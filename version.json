@@ -1,11 +1,15 @@
 {
   "android": {
-    "latestVersionCode": 20,
-    "latestVersionName": "1.2.8",
+    "latestVersionCode": 23,
+    "latestVersionName": "1.3.1",
     "minSupportedVersionCode": 0,
     "releaseNotes": [
-      "Bill reminders and subscription pause",
-      "Faster SmartScan"
+      "External loan payments (spouse, family, cash) without debiting bank accounts",
+      "Principal / extra debt reduction without altering EMI due date",
+      "Pause & resume budgets with quarterly and yearly cycles",
+      "Automated credit card statement and due date inference",
+      "Quick 'Same as Category' merchant shortcut for faster logging",
+      "Smoother bottom sheet scrolling and gesture handling"
     ],
     "url": "https://play.google.com/store/apps/details?id=com.adkdinesh.echospend"
   }
